@@ -1,0 +1,35 @@
+* Camionnette : 4
+* Perceuse : 8
+* Pelle : 12
+* Marteau_piqueur : 5
+* Chef_equipe : 4
+* Creuseur : 3
+* Deneigeuse : 5
+* Cones_Oranges : 100
+-
+1001
+0 600
+* Camionnette : 1
+* Chef_equipe : 1
+* Creuseur : 2
+* Marteau_piqueur : 2
+* Pelle : 3
+* Cones_Oranges : 12
+-
+1002
+300 900
+* Camionnette : 2
+* Chef_equipe : 2
+-
+1004
+300 900
+* Camionnette : 1
+* Chef_equipe : 1
+* Pelle : 5
+-
+1005
+600 1200
+* Camionnette : 1
+* Chef_equipe : 1
+* Pelle : 10
+-

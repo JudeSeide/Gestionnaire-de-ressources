@@ -1,0 +1,13 @@
+* Marteau : 10
+* Camion : 5
+-
+1000
+10 20
+* Camion : 4
+* Marteau : 1
+-
+1001
+20 30
+* Camion : 14
+-
+

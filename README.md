@@ -66,4 +66,5 @@ INSTALLATION :
 ==============
 
 Taper _make_ pour builder le projet dans un terminal
-Taper _./gestionnaire nomFichier.txt_ pour l'execution
+Taper _./gestionnaire < nomFichier.txt_ pour l'execution
+Taper _make clean_ pour nettoyer
